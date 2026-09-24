@@ -1,0 +1,62 @@
+[
+  {
+    "id": "def-1",
+    "text": "Le passeport ordinaire sénégalais est un document de voyage nécessaire pour entrer dans un pays étranger. Il est également demandé pour sortir du territoire national par l'aéroport, sauf pour les destinations où la carte nationale d'identité suffit. Tout citoyen sénégalais peut en faire la demande dès sa naissance."
+  },
+  {
+    "id": "def-2",
+    "text": "Il existe deux formats de passeport sénégalais : le passeport ordinaire classique et le passeport numérisé (biométrique). La durée de validité du passeport biométrique est généralement de 5 ans."
+  },
+  {
+    "id": "doc-majeur",
+    "text": "Pour une première demande de passeport, un majeur doit fournir : la carte nationale d'identité (CNI) originale en cours de validité, accompagnée d'une copie certifiée conforme, ainsi qu'un certificat de nationalité ou un ancien passeport, et une quittance attestant du paiement des frais."
+  },
+  {
+    "id": "doc-mineur",
+    "text": "Pour un enfant mineur, la demande de passeport doit être accompagnée d'une autorisation parentale et de la copie certifiée conforme de la carte nationale d'identité du père ou de la mère, ainsi que d'un certificat de prise en charge délivré par la mairie ou la justice. Pour les enfants de moins de 5 ans, un extrait de naissance datant de moins de 3 mois remplace la carte nationale d'identité."
+  },
+  {
+    "id": "cas-particuliers",
+    "text": "En cas de jugement supplétif, la demande doit être accompagnée d'un extrait de jugement des minutes du greffe et d'une autorisation de jugement dudit acte. Les personnes portant un nom à consonance étrangère doivent fournir un certificat de nationalité."
+  },
+  {
+    "id": "paiement-quittance",
+    "text": "Le paiement des frais de passeport se fait auprès de la Direction de l'Enregistrement, des Domaines et du Timbre, ou en ligne via la plateforme Sénégal Services. Une quittance est remise après paiement ; elle est indispensable pour la suite de la démarche."
+  },
+  {
+    "id": "tarifs-locaux",
+    "text": "Au Sénégal, le renouvellement du passeport coûte 20 000 FCFA. Le passeport étudiant coûte 10 000 FCFA sur présentation d'un certificat de scolarité ou d'une carte d'étudiant valide."
+  },
+  {
+    "id": "tarifs-diaspora",
+    "text": "Pour les Sénégalais de la diaspora en zone euro, les tarifs ont été harmonisés en janvier 2026 : environ 61 euros pour une première demande et 30,50 euros pour un renouvellement, payables sous forme de timbre fiscal. Les tarifs hors zone euro (États-Unis, Canada, Royaume-Uni, etc.) doivent être vérifiés directement auprès du consulat du Sénégal compétent."
+  },
+  {
+    "id": "ou-deposer",
+    "text": "Au Sénégal, la demande se dépose au commissariat de police dont dépend le domicile du demandeur. À Dakar, le dépôt se fait uniquement sur rendez-vous. Pour les Sénégalais résidant à l'étranger, la demande se fait auprès de l'ambassade ou du consulat du Sénégal du pays de résidence."
+  },
+  {
+    "id": "rendez-vous",
+    "text": "Pour obtenir un rendez-vous à Dakar, le demandeur doit d'abord passer par la Direction de l'Enregistrement et du Timbre pour obtenir sa quittance, puis appeler le serveur vocal Africatel AVS au 88 628 19 01 (appel surtaxé, environ 400 FCFA la minute) en indiquant le numéro de sa quittance. Le délai d'obtention d'un rendez-vous varie de 2 à 25 jours selon l'affluence du commissariat."
+  },
+  {
+    "id": "delai-traitement",
+    "text": "Le délai officiel de traitement d'une demande de passeport est de 30 jours ouvrables. Dans la pratique, ce délai varie généralement entre 3 et 8 semaines selon la région et la période de l'année, les commissariats de Dakar traitant un volume de demandes nettement plus important que ceux des autres régions."
+  },
+  {
+    "id": "procedure-urgence",
+    "text": "Une procédure accélérée existe pour les situations d'urgence dûment justifiées, comme une urgence médicale, un voyage professionnel urgent ou le décès d'un proche à l'étranger. Elle nécessite une demande motivée adressée à la Direction de la Police des Frontières à Dakar."
+  },
+  {
+    "id": "perte-vol",
+    "text": "En cas de perte ou de vol du passeport, il n'est pas délivré de duplicata. Le demandeur doit faire une déclaration de perte ou de vol auprès d'un commissariat ou d'une brigade de gendarmerie, puis reprendre l'intégralité de la procédure de demande. Ce type de dossier nécessite des vérifications complémentaires qui peuvent allonger le délai de traitement."
+  },
+  {
+    "id": "renouvellement",
+    "text": "Le renouvellement du passeport est possible dans plusieurs cas : expiration de la validité au bout de 5 ans, pages de visas ou de tampons entièrement remplies, changement d'état civil (nom, nationalité, statut marital), ou détérioration du document. Il faut présenter l'ancien passeport ainsi que la quittance de paiement."
+  },
+  {
+    "id": "conseil-voyage",
+    "text": "Il est recommandé de renouveler son passeport au moins 6 mois avant son expiration, car de nombreux pays exigent que le passeport reste valable au minimum 6 mois après la date de retour prévue pour autoriser l'entrée sur leur territoire."
+  }
+]
