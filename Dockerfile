@@ -9,4 +9,4 @@ COPY . .
 
 EXPOSE 8500
 
-CMD ["sh", "-c", "rm -rf /app/chroma_db && python ingest.py && uvicorn main:app --host 0.0.0.0 --port 8500"]
+CMD ["sh", "-c", "rm -rf /app/chromadb && python ingest.py && uvicorn main:app --host 0.0.0.0 --port 8500"]
